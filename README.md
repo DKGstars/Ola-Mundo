@@ -2,5 +2,5 @@
 
  Primeiro Repositorio introducao a github
 
- Primeira alteracao de repositorio
- Essa Linha au alterei Diretamante no site que FODA!!
+ Primeira alteracao de repositorio 
+Alteracao no README.md Remotamente
